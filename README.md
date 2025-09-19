@@ -1,6 +1,6 @@
 # E-commerce Shopping Platform Database Design Document
 
-By Goga Cristian Maximilian
+By Max
 
 Database Schema: DBSchema.png
 
